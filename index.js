@@ -1,0 +1,1 @@
+console.log(`Greeting form Node and index.js! 🎺🎺`)
